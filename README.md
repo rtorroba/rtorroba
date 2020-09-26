@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there :unicorn:
+
+### About me:
+
+- I'm currently studying a UX/UI Bootcamp
+- I live in Madrid
 
 <!--
 **rtorroba/rtorroba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
