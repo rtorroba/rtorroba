@@ -1,6 +1,6 @@
 ## Hi there :flamingo:
 
-:mortar_board: I'm an English to Spanish translator and proofreader by <img src= usal_en_ver.png alt="Escudo Universidad de Salamanca" width="70">
+:mortar_board: I'm an English to Spanish translator and proofreader by <img src= usal_en_ver.png alt="Escudo Universidad de Salamanca" width="85">
 
 :books: I'm currently studying a **UX/UI Bootcamp** at [The Bridge](https://thebridge.tech/)
 
