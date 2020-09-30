@@ -1,7 +1,6 @@
 ## Hi there :flamingo:
 
 :mortar_board: I'm an English to Spanish translator and proofreader by <img src= usal_en_ver.png alt="Escudo Universidad de Salamanca" width="80">. <br>
-I live in Madrid.
 
 :books: I'm currently studying a **UX/UI Bootcamp** at [The Bridge](https://thebridge.tech/)
 
@@ -19,8 +18,9 @@ I live in Madrid.
 
 ---
 
-:door: You can reach me at:  
- <raquel.torroba.m@gmail.com>
+:door: You can reach me at:
+
+<raquel.torroba.m@gmail.com>
 
 [LinkedIn](https://www.linkedin.com/in/raqueltorroba/)
 
